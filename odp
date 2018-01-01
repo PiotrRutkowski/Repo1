@@ -1,0 +1,1 @@
+Sledzone sa wszystkie pliki niebedace .txt, poniewaz "git add ." dodaje wszystkie pliki z pominieciem tych ignorowanych, a ignorowane sa tylko te z rozszerzeniem .txt.
